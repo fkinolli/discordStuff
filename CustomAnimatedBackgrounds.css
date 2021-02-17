@@ -7,3 +7,8 @@
 [data-user-id*="253642548365623296"] {
     --user-background: url('https://media1.giphy.com/media/aN9GqoR7OD3nq/200.gif');
 }
+
+[user_by_bdfdb*="287883914398400514"],
+[data-user-id*="287883914398400514"] {
+    --user-background: url('https://media.tenor.com/images/b882c454d845e4b9b7f93841ae5cb7a1/tenor.gif');
+}
