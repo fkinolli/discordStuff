@@ -1,14 +1,24 @@
+/*Cookie*/
 [user_by_bdfdb*="340900973490995200"],
 [data-user-id*="340900973490995200"] {
     --user-background: url('https://cdn.discordapp.com/attachments/340907307988680705/811693872669130772/purpleCity.gif');
 }
 
+/*Cluster*/
 [user_by_bdfdb*="253642548365623296"],
 [data-user-id*="253642548365623296"] {
     --user-background: url('https://media1.giphy.com/media/aN9GqoR7OD3nq/200.gif');
 }
 
+
+/*Keiran*/
 [user_by_bdfdb*="287883914398400514"],
 [data-user-id*="287883914398400514"] {
     --user-background: url('https://media.tenor.com/images/b882c454d845e4b9b7f93841ae5cb7a1/tenor.gif');
+}
+
+/*Din*/
+[user_by_bdfdb*="227781085289775104"],
+[data-user-id*="227781085289775104"] {
+    --user-background: url('https://discord.com/channels/@me/752637159961526395/811703854781431828');
 }
